@@ -117,7 +117,18 @@ public class Magpie3
 
 		return -1;
 	}
-
+  
+        /**
+         * Code does nothing. The code is completely useless in of itself but useful for me 
+         * to learn how to write code and build APIs. 
+         * 
+         * @param dud 
+         *           the useless parameter
+         */
+        public void doNothing (int dud) 
+        { 
+            //does nothing            
+        }
 	/**
 	 * Search for one word in phrase. The search is not case
 	 * sensitive. This method will check that the given goal
